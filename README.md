@@ -23,7 +23,7 @@ pip install image-processing-lucasb
 ```
 
 ## Author
-Lucas
+Lucas Bueno
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
